@@ -27,6 +27,21 @@ Then go to the responses section and click link to Google Sheets link:
 Click on it and select create new spreadsheet and name it Onboarding Tracker. You will see this after creating it.  
 <img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/ad013716-1006-43e0-8cac-8474ab12a80b" />  
 
+# Zapier
+Then go to Zapier's dashboard and click on create Zap which will take to the zap dashboard:  
+<img width="1822" height="982" alt="image" src="https://github.com/user-attachments/assets/b447f547-48f1-4630-9f97-43bef2d28467" />  
+Then do the first creation of the action, choose app and event and look for google forms to choose, select new or updated form response and select continue.  
+After clicking continue, select the form that was created and select a trigger question such as email and select continue and then select test trigger and should see the following data generated:  
+<img width="378" height="762" alt="image" src="https://github.com/user-attachments/assets/09e28cbf-e425-4b8c-baa6-ea2fafbe9cb8" />  
+Then go to the first action and search for the Google Sheets app. In action event, search for create spreadsheet row, choose account and select continue.  
+Then in configure select the onboarding form spreadsheet with the generated responses and hit continue and see this tab:  
+<img width="396" height="881" alt="image" src="https://github.com/user-attachments/assets/82f80888-38ff-4fc3-b23e-8621e0710208" />  
+After testing it. 
+
+
+
+
+
 
 
 
