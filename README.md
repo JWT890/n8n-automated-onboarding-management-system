@@ -20,6 +20,15 @@ Then for Office Location have it set to dropdown like so:
 <img width="867" height="444" alt="image" src="https://github.com/user-attachments/assets/4eb94431-0196-41a8-8934-80b440ec0079" />  
 Then do Equipment Needed and have it set to checkboxes:  
 <img width="897" height="560" alt="image" src="https://github.com/user-attachments/assets/0fde8574-820b-450d-a1c5-2813afd06d05" />  
+Then move over to settings and for the responses have it like this:  
+<img width="799" height="644" alt="image" src="https://github.com/user-attachments/assets/c12bfd0a-bc2e-493c-86be-bb8d85c88b37" />  
+Then go to the responses section and click link to Google Sheets link:  
+<img width="985" height="529" alt="image" src="https://github.com/user-attachments/assets/8ecada45-c3a2-4fb5-ac12-464bda7de963" />  
+Click on it and select create new spreadsheet and name it Onboarding Tracker. You will see this after creating it.  
+<img width="1916" height="907" alt="image" src="https://github.com/user-attachments/assets/ad013716-1006-43e0-8cac-8474ab12a80b" />  
+
+
+
 
 
 
