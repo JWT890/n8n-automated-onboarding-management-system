@@ -36,7 +36,20 @@ After clicking continue, select the form that was created and select a trigger q
 Then go to the first action and search for the Google Sheets app. In action event, search for create spreadsheet row, choose account and select continue.  
 Then in configure select the onboarding form spreadsheet with the generated responses and hit continue and see this tab:  
 <img width="396" height="881" alt="image" src="https://github.com/user-attachments/assets/82f80888-38ff-4fc3-b23e-8621e0710208" />  
-After testing it. 
+After inputing some data and testing it, its time to create the next action.  
+Choose Gmail with the action event set to send email and continue. You will see a section of configuring the email, for this I'll use my personal email to send it too and give it a subject title like this:  
+<img width="362" height="96" alt="image" src="https://github.com/user-attachments/assets/46e21e9d-dba4-40b2-93e8-5e7553996024" />  
+And set the body to Html and input the information needed for IT request setup and onboarding checklist, select continue and hit test step.  
+You should get an email like this and good for testing:  
+<img width="1523" height="284" alt="image" src="https://github.com/user-attachments/assets/c190d20f-2e0f-4c89-a7b4-a93e0275eb3b" />  
+Next its time to do another email setup for sending to HR, I'll use another email account, set body to Html and input the information needed for HR onboarding, select continue and hit test step.  
+You should get an email like and good for testing:  
+<img width="1526" height="293" alt="image" src="https://github.com/user-attachments/assets/28ac28d5-7e94-495a-a396-99ab0cb434ad" />  
+
+
+
+
+
 
 
 
