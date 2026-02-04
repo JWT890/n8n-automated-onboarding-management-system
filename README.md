@@ -71,6 +71,12 @@ Once again choose Jira Software, select project Onboarding once again with creat
 <img width="1282" height="794" alt="image" src="https://github.com/user-attachments/assets/571c7791-18d9-49d8-b0c3-a20432169ce7" />  
 
 Then for the next step is to update the dashboard with Jira links  
+Set up another action with Google Sheets, action with Update Spreadsheet Row, and add the Links to the Jira Tickets in there, make sure to also create a early action step that for the Onboarding Tracker with a dashboard for the Jira tickets.  
+Like so:  
+<img width="368" height="371" alt="image" src="https://github.com/user-attachments/assets/69d55951-936c-4bea-870c-655d94757c6f" />  
+<img width="1843" height="709" alt="image" src="https://github.com/user-attachments/assets/6aaadf85-1411-4694-b8aa-19a860a607d6" />  
+
+
 
 
 
