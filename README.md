@@ -84,6 +84,27 @@ After testing, publish the Zap with a name of New Hire Onboarding Automation and
 Then go to the Google Sheets dashboard with the info for IT Status, HR Status and Manager Status to conditionally format them with Complete being green, in progress being yellow, and pending being red or different cases:  
 <img width="1834" height="499" alt="image" src="https://github.com/user-attachments/assets/b12d9a45-f710-4305-9602-294b91d71ff5" />  
 
+Then add a couple rows to allow for Onboarding Metrics with categories for Total Active, Pending IT, Pending HR, and Starting this week with respective formulas.  
+Total Active:  
+<img width="183" height="21" alt="image" src="https://github.com/user-attachments/assets/c3f6b724-f973-445a-a6e5-fef07aeaf2ca" />  
+Pending IT:  
+<img width="252" height="24" alt="image" src="https://github.com/user-attachments/assets/452511f2-3e85-4db4-8d7a-24e234c49f0a" />  
+Pending HR:  
+<img width="220" height="26" alt="image" src="https://github.com/user-attachments/assets/38ec0a39-b540-44d6-bf00-7d52da8a7d7c" />  
+Starting this week:  
+<img width="394" height="21" alt="image" src="https://github.com/user-attachments/assets/a17b125d-63b4-4565-9644-c07272038b45" />  
+
+Then add another column for all tickets closed section:  
+<img width="591" height="20" alt="image" src="https://github.com/user-attachments/assets/d34d72b1-8e1b-4b1f-9cc0-576a15f51533" />  
+
+# Testing
+
+
+
+
+
+
+
 
 
 
