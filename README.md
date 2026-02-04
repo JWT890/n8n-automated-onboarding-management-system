@@ -53,6 +53,37 @@ For the next step, create an account with Jira then go to atlassian.com/try/clou
 <img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/6c6ff531-aef5-4103-add2-7cde9f3dfa42" />  
 Then go back to Zapier and add Jira Software Cloud with the action event of create issue and allow access to the new site by setting the value to true and the site name like so:  
 <img width="966" height="622" alt="image" src="https://github.com/user-attachments/assets/cf832cd1-c671-4c26-8851-341b0b3e48b8" />  
+*Note leave it false since you are not signing into a gov one.*  
+Then go find the tab that says create a project and name it Onboarding like so:  
+<img width="1906" height="902" alt="image" src="https://github.com/user-attachments/assets/076fe28f-c8a6-41c7-ab76-d71bf79a0162" />  
+Then in Zapier, select the project as Onboarding, issue type as task, assign to yourself with a description, set priority to high, and set the summary to something like IT Setup and the info needed, select continue and hit test step:  
+<img width="1634" height="605" alt="image" src="https://github.com/user-attachments/assets/5a064aab-800f-4a4b-b67b-745249904a40" />  
+<img width="1282" height="793" alt="image" src="https://github.com/user-attachments/assets/e15353e6-2cca-4e78-8890-128af8644328" />  
+
+Then for the next step is to create a Jira ticket with HR tasks  
+Once again choose Jira Software, select project Onboarding once again with create issue task, assign to yourself with a description, set priority to high, and set the summary to something like HR Onboarding and the info needed, select continue and hit test step:  
+<img width="1636" height="731" alt="image" src="https://github.com/user-attachments/assets/b2b3d4e6-e94a-408c-97d5-fef218f158ef" />  
+<img width="1271" height="786" alt="image" src="https://github.com/user-attachments/assets/c144a5dc-1086-4b94-b94f-84c66a8a07e8" />  
+
+Then for the next step is to create a Jira ticket with Manager prep tasks  
+Once again choose Jira Software, select project Onboarding once again with create issue task, assign to yourself with a description, set priority to medium, set the summary to something like Manager prep and info needed, select continue and test step:  
+<img width="1884" height="840" alt="image" src="https://github.com/user-attachments/assets/0516ae81-dba6-4654-b866-3ffd351cd485" />  
+<img width="1282" height="794" alt="image" src="https://github.com/user-attachments/assets/571c7791-18d9-49d8-b0c3-a20432169ce7" />  
+
+Then for the next step is to update the dashboard with Jira links  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
