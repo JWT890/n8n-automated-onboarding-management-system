@@ -80,7 +80,12 @@ Then as a final step is to create a action that sends the manager an email.
 Set up a gmail sender, with the subject matter, body to plain, input information needed, select continue and test the step:  
 <img width="775" height="703" alt="image" src="https://github.com/user-attachments/assets/7aafb911-9b08-40ae-ba77-4939d40ca8e5" />  
 
-After testing, publish the Zap with a name of New Hire Onboarding Automation.  
+After testing, publish the Zap with a name of New Hire Onboarding Automation and make sure it is saved.  
+Then go to the Google Sheets dashboard with the info for IT Status, HR Status and Manager Status to conditionally format them with Complete being green, in progress being yellow, and pending being red or different cases:  
+<img width="1834" height="499" alt="image" src="https://github.com/user-attachments/assets/b12d9a45-f710-4305-9602-294b91d71ff5" />  
+
+
+
 
 
 
