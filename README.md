@@ -51,6 +51,11 @@ Should get an email like this and good for testing:
 
 For the next step, create an account with Jira then go to atlassian.com/try/cloud/signup and create a test site such as testsite2309.atlassian.net, select the role you are and so forth till you get here:  
 <img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/6c6ff531-aef5-4103-add2-7cde9f3dfa42" />  
+Then go back to Zapier and add Jira Software Cloud with the action event of create issue and allow access to the new site by setting the value to true and the site name like so:  
+<img width="966" height="622" alt="image" src="https://github.com/user-attachments/assets/cf832cd1-c671-4c26-8851-341b0b3e48b8" />  
+
+
+
 
 
 
