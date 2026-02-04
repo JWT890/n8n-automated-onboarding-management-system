@@ -76,6 +76,14 @@ Like so:
 <img width="368" height="371" alt="image" src="https://github.com/user-attachments/assets/69d55951-936c-4bea-870c-655d94757c6f" />  
 <img width="1843" height="709" alt="image" src="https://github.com/user-attachments/assets/6aaadf85-1411-4694-b8aa-19a860a607d6" />  
 
+Then as a final step is to create a action that sends the manager an email.  
+Set up a gmail sender, with the subject matter, body to plain, input information needed, select continue and test the step:  
+<img width="775" height="703" alt="image" src="https://github.com/user-attachments/assets/7aafb911-9b08-40ae-ba77-4939d40ca8e5" />  
+
+After testing, publish the Zap with a name of New Hire Onboarding Automation.  
+
+
+
 
 
 
