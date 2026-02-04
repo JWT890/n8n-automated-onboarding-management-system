@@ -45,6 +45,17 @@ You should get an email like this and good for testing:
 Next its time to do another email setup for sending to HR, I'll use another email account, set body to Html and input the information needed for HR onboarding, select continue and hit test step.  
 You should get an email like and good for testing:  
 <img width="1526" height="293" alt="image" src="https://github.com/user-attachments/assets/28ac28d5-7e94-495a-a396-99ab0cb434ad" />  
+Next its time to do another email setup for sending to the manager, I'll use another email account such as Outlook, make sure to CC the HR email, set body to HTML, input the information needed for new team member stuff, select continue and hit test step.  
+Should get an email like this and good for testing:  
+<img width="1321" height="826" alt="image" src="https://github.com/user-attachments/assets/c20fd9e1-77ea-40a3-9a16-d10862f0af62" />  
+
+For the next step, create an account with Jira then go to atlassian.com/try/cloud/signup and create a test site such as testsite2309.atlassian.net, select the role you are and so forth till you get here:  
+<img width="1910" height="901" alt="image" src="https://github.com/user-attachments/assets/6c6ff531-aef5-4103-add2-7cde9f3dfa42" />  
+
+
+
+
+
 
 
 
