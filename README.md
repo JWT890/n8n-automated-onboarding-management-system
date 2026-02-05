@@ -98,6 +98,19 @@ Then add another column for all tickets closed section:
 <img width="591" height="20" alt="image" src="https://github.com/user-attachments/assets/d34d72b1-8e1b-4b1f-9cc0-576a15f51533" />  
 
 # Testing
+To test this, we need to create to publish the Google Forms and then copy the link. After doing so you will see this:  
+<img width="710" height="516" alt="image" src="https://github.com/user-attachments/assets/605e160c-634a-4799-808b-f5ec8543fae4" />  
+This means on the form now that you will be able to input data.  
+
+On the Zapier side, you will need to publish the zapier in the top right corner of the screen, publish it and then it will be time to test it out.  
+After inputting all the info for the form, press submit and then wait for a few minutes till you see emails in your inbox.  
+Make sure to also change the trigger to trigger when there is a new response. For the emails and tickets, make sure to do it in this format:  
+<img width="330" height="512" alt="image" src="https://github.com/user-attachments/assets/15b470a2-5c41-40d8-97d6-0c5f3a8bf249" />  
+To make it more dynamic. To make it more dynamic, click the plus icon
+<img width="385" height="355" alt="image" src="https://github.com/user-attachments/assets/df56bf7a-1172-4f7d-8aba-dbf189efcab1" />  
+Then select the first option and choose the respective options from the form for each thing such as role/title and name and then publish it.  
+
+
 
 
 
